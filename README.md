@@ -4,6 +4,11 @@ Welcome to my GitHub! I'm a ** Software Engineer ** - **Full-Stack Developer** w
 
 ---
 
+## Current Projects
+
+- ([🔔NOTIFIER]([https://www.linkedin.com/in/mouataz-hakkou/](https://github.com/mhakkou/notifier))
+---
+
 ## 🛠️ Tech Stack
 
 ### Backend
