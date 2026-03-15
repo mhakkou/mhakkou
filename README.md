@@ -6,6 +6,7 @@ Welcome to my GitHub! I'm a ** Software Engineer ** - **Full-Stack Developer** w
 
 ## Current Projects
 - [🔔NOTIFIER](https://github.com/mhakkou/notifier) - A framework-agnostic PHP notification package for sending messages across multiple channels
+- [📝learning-tracker](https://github.com/mhakkou/learning-tracker) - A framework-agnostic PHP notification package for sending messages across multiple channels
 ---
 
 ## 🛠️ Tech Stack
